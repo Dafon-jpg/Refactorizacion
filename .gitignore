@@ -1,3 +1,2 @@
-zz_renombrador_anterior/git rm -r --cached zz_renombrador_anterior/
-
+zz_renombrador_anterior/
 modelos/layoutlmv3-finetuned-facturas/checkpoint-330/optimizer.pt
